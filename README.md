@@ -7,7 +7,7 @@ Labelfree 是一个开放的、可私有化部署的标注系统。Labelfree 提
 - 易于部署，基于Docker Compose，简单几条命令即可部署。
 - 数据安全性高。可私有化内网部署，不存在数据泄漏风险。
 - 高性能。内置对象存储服务，在硬件充足的情况下，可以支撑海量数据的标注。
-- 一键标注。提供专业、一站式的数据标注服务。
+- 一键标注。提供专业、一站式的数据标注服务，包括物体检测类标注和语义分割标注。
 
 ![标注动画.gif](https://github.com/IndustryEssentials/label-free/blob/main/images/label.gif)
 
